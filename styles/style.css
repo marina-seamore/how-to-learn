@@ -263,8 +263,9 @@
   display: flex;
   flex-direction: column;
 }
-.footer__column__content_copyright{
+.footer__column_content_copyright{
   flex-basis: 711px;
+  min-height: 250px;
   justify-content: space-between;
 }
 .footer__author{
